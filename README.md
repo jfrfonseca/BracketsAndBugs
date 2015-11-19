@@ -2,6 +2,12 @@
 Brackets &amp; Bugs (B&amp;B, obviously) is a tabletop-role-playing-game in wich teams play as Information Technology Adventurers to crawl through Brackets and fight Bugs, Issues and Difficulties in the mythical land of Projects.
 
 ## Game Mechanics
+
+There are two modes of gameplay: Company Team and Start-Up.
+In a Company Team match, the Product Owner craetes a Project from its conception to an arbitrary level of compleition, and Metrics to evaluate performance, includind time and money requirements. Then the Product Owner grants the party, I mean, the Scrum Team an arbitrary Budget and Deadline. The objective of the Scrum Team is to complete the Project within the Time and Budget constraints, maximizing the amount of money owned by each player and the Performance Metrics set by the Product Owner.
+
+In a Start-Up Match the Scrum Team and the Market Master identify a Market Need, and create a Project from its very beginning, setting metrics, budget and deadline. The objective is to, using only the money owned by the IT_Adventurers, make the maximum amount of total cash.
+
 ### Players
 Players instantiate themselves as IT_Adventurer's: multiple-inheritance objets of the many subclasses of the Developer class.
 Each class grants an IT_Adventurer instance a different range to set values for the same few attributes.
